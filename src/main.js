@@ -15,7 +15,7 @@ function setCardType(type) {
         dinners: ['#A01111', '#270B0E'],
         jcb: ['#1C0E0B', '#DEB758'],
         unionpay: ['#8EFCEF', '#B81532'],
-        nubank: ['#7E0ACA', '#8605B8'],
+        nubank: ['#7E0ACA', '#7E0ACA'],
         neon: ['#11A9F3', '#12DCDF'],
         default: ['black', 'gray'],
     }
